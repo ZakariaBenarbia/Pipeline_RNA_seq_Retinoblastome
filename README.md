@@ -1,1 +1,2 @@
 # Pipeline_RNA_seq_Retinoblastome
+Ce dépôt contient le rapport et les résultats d’une analyse RNA-seq réalisée sur le jeu de données GEO GSE125903 (échantillons de rétinoblastome pédiatrique vs rétine normale). Le pipeline comprend contrôle qualité, trimming, alignement, quantification, analyse différentielle, déconvolution cellulaire et analyses fonctionnelles (DESeq2, EPIC, WGCNA, clusterProfiler).
